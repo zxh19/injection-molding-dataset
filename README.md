@@ -14,10 +14,3 @@ Files
   
   High-Frequency Sensor files: High-frequency sensor signals stored as multiple CSV files (one file per cycle/run)
 
-Notes
-
-  The dataset includes both low-frequency tabular data (settings + status) and high-frequency time-series sensor recordings.
-  
-  High-frequency CSVs may be large; consider using Git LFS or external storage if needed.
-
-If you use this dataset in your work, please cite the original source where applicable.
