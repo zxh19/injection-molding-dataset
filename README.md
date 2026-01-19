@@ -1,4 +1,3 @@
-# Welcome to GitHub Desktop!
 
 Injection Molding Dataset (Foxconn)
 
