@@ -1,8 +1,6 @@
 
 Injection Molding Dataset (Foxconn)
 
-This repository hosts an archived copy of the Foxconn injection molding dataset for research and educational use. It is provided as a mirror to improve accessibility.
-
 Files
 
   data_set.csv: Process setting / recipe parameters (machine configuration per cycle)
