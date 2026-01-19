@@ -1,13 +1,7 @@
-
-Injection Molding Dataset (Foxconn)
-
+Injection Molding Dataset
+This repository provides an archived copy of an injection molding dataset (Foxconn) for research and educational use.
 Files
-
-  data_set.csv: Process setting / recipe parameters (machine configuration per cycle)
-  
-  data_spc.csv: Molding machine status (SPC / monitoring signals)
-  
-  Size: Three quality labels (Size1–Size3) for each cycle
-  
-  High-Frequency Sensor files: High-frequency sensor signals stored as multiple CSV files (one file per cycle/run)
-
+data_set.csv: Process setting
+data_spc.csv: Molding machine status 
+Size: Three quality labels (Size1–Size3) for each cycle
+High-Frequency Sensor files: High-frequency sensor signals stored as multiple CSV files 
