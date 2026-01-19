@@ -1,6 +1,6 @@
 # Injection Molding Dataset
 
-This repository provides an archived copy of an injection molding dataset (Foxconn) for research and educational use.
+This repository provides an archived copy of an injection molding dataset (Foxconn).
 
 ## Files
 - **data_set.csv**: Process setting
